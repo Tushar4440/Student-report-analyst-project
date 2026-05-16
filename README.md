@@ -2,6 +2,12 @@
 
 🔗 **[Live Dashboard Link](https://app.powerbi.com/groups/me/reports/d0ced42f-e306-48bc-bcf8-e78f48d5f2cc?ctid=1490b17d-5dc9-4cbf-aeba-a2e854f521b8&pbi_source=linkShare)**
 
+> **Test Credentials:**
+> * **Username:** `1042237757`
+> * **Password:** `Jen7757`
+> The above is for student name Tyesha Freitag.
+you can also check for other students their specific report with help of data from final_students_data.csv file.
+
 ## 📌 Project Overview
 The goal of this project is to create a secure, live Power BI report that allows parents to view their child's marks. A critical requirement is implementing privacy controls so that each parent can **only** see their own student's data. The final dashboard is designed to be accessible, but data access is strictly restricted based on user credentials (Row-Level Security).
 
